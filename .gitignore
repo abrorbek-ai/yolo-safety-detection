@@ -1,0 +1,45 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pth
+.idea/
+.vscode/
+.env
+env/
+venv/
+.venv/
+*.log
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.zip
+*.tar.gz
+*.tar
+*.tgz
+*.egg-info/
+# Python virtual environments
+.venv/
+# Local conda environment directories
+aarch64-conda-linux-gnu/
+bin/
+compiler_compat/
+conda-meta/
+include/
+lib/
+share/
+ssl/
+etc/
+man/
+dense/
+sparse/
+yolo-env/
+# Model weight duplicates and temporary outputs
+weights/
+*.onnx
+*.pt
+*.pth
+# OS files
+.DS_Store
